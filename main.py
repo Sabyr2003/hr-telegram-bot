@@ -223,7 +223,7 @@ SMTP_EMAIL = "sabyrzakirov1@yandex.ru"
 SMTP_PASSWORD = "opwdvkbswqhwrxpb"
 
 # Почта HR-менеджера
-HR_EMAIL = "sabyrzakirov@gmail.com"
+HR_EMAIL = "hrromanova@gmail.com"
 
 # Создаем папку для хранения резюме, если её нет
 RESUMES_FOLDER = "resumes"
